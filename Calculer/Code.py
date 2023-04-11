@@ -17,7 +17,7 @@ print("1. 더하기")
 print("2. 빼기")
 print("3. 곱하기")
 print("4. 나누기")
-
+// 수정할거
 while True:
     choice = input("선택 (1/2/3/4): ")
     
